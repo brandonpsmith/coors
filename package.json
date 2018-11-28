@@ -1,0 +1,27 @@
+{
+  "name": "coors",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Brandon P. Smith",
+  "main": "index.js",
+  "keywords": [
+    "cors",
+    "micro",
+    "fastify",
+    "express",
+    "hapi",
+    "koa",
+    "micro cors",
+    "fastify cors",
+    "express cors",
+    "hapi cors",
+    "koa cors"
+  ],
+  "devDependencies": {
+    "express": "^4.16.4",
+    "fastify": "^2.0.0",
+    "hapi": "^18.1.0",
+    "koa": "^2.7.0",
+    "micro": "^9.3.3"
+  }
+}
