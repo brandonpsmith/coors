@@ -19,7 +19,7 @@
   ],
   "devDependencies": {
     "express": "^4.16.4",
-    "fastify": "^2.0.0",
+    "fastify": "^2.15.1",
     "hapi": "^18.1.0",
     "koa": "^2.7.0",
     "micro": "^9.3.3"
